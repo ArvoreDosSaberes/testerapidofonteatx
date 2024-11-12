@@ -1,0 +1,263 @@
+(footprint "SW_Push_1P1T_NO_6x6mm_H9.5mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "tactile push button, 6x6mm e.g. PTS645xx series, height=9.5mm")
+	(tags "tact sw push 6mm smd")
+	(property "Reference" "SW1"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(uuid "79a71b4e-2f73-4d99-8e9f-b1efa7c6a3e6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_DPST_x2"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "58ee7a72-d7bb-4ed3-9c0d-bda330749060")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d2eb3a1e-8e25-490d-be31-cfd9bcd59a1e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b1624893-999c-47c2-8aa2-afb4ef149851")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Single Pole Single Throw (SPST) switch, separate symbol"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d8b41821-c2d6-4794-8ef4-add9f1188bc7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.23 -3.23)
+		(end 3.23 -3.23)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "48e56226-50a1-40e1-92c3-cb2c9558262e")
+	)
+	(fp_line
+		(start -3.23 -1.3)
+		(end -3.23 1.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c8571b5a-c1f4-441a-a624-473a00a8ab01")
+	)
+	(fp_line
+		(start -3.23 3.23)
+		(end 3.23 3.23)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "59408b57-1a0a-48c7-8d46-68c9d85b131d")
+	)
+	(fp_line
+		(start 3.23 -1.3)
+		(end 3.23 1.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1e245952-5474-4e79-811c-ada90f788aa3")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.750714 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "413fc1fe-49b6-491c-b4c1-65470f7aa296")
+	)
+	(fp_line
+		(start -5 -3.25)
+		(end -5 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "33796136-cb5d-4f11-a15b-7626e9ca09f5")
+	)
+	(fp_line
+		(start -5 -3.25)
+		(end 5 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "82977f7d-7f97-4f46-a38f-736e7c5df42e")
+	)
+	(fp_line
+		(start -5 3.25)
+		(end 5 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "be9894a8-985f-4123-b668-bbe9b140bd14")
+	)
+	(fp_line
+		(start 5 3.25)
+		(end 5 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7715cbd0-e26c-4d9e-a064-723f058e9db0")
+	)
+	(fp_line
+		(start -3 -3)
+		(end -3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a795884d-867d-4003-8017-d89f6d569308")
+	)
+	(fp_line
+		(start -3 3)
+		(end 3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fcb12b34-bedf-482b-b44e-81e264cb3c4b")
+	)
+	(fp_line
+		(start 3 -3)
+		(end -3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "db86ac12-ecb4-4241-974e-b91e5f740d8e")
+	)
+	(fp_line
+		(start 3 3)
+		(end 3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ead8eb9a-d96c-49f8-a2df-1e9a88517a9e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -4 0)
+		(layer "F.Fab")
+		(uuid "16f94e98-dc50-4458-9c6d-5ffd5ee8323e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -3.975 -2.25)
+		(size 2.032 1.27)
+		(drill
+			(offset -0.508 0)
+		)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.15)
+		(uuid "b24128a0-b6e1-4af9-a9c5-08f04b459b86")
+	)
+	(pad "1" smd roundrect
+		(at 3.975 -2.25)
+		(size 2.032 1.27)
+		(drill
+			(offset 0.508 0)
+		)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.15)
+		(uuid "eba310fa-82b0-4310-af0b-09a9aedfc60f")
+	)
+	(pad "2" smd roundrect
+		(at -3.975 2.25)
+		(size 2.032 1.27)
+		(drill
+			(offset -0.508 0)
+		)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.15)
+		(uuid "169d0c4a-3535-4ebf-9b78-09bef860f75a")
+	)
+	(pad "2" smd roundrect
+		(at 3.975 2.25)
+		(size 2.032 1.27)
+		(drill
+			(offset 0.508 0)
+		)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.15)
+		(uuid "ddca8fad-72e5-4f6f-b2a4-2c96e142c55e")
+	)
+	(model "${KIPRJMOD}/3dmodels/TE 1571527-2.stp"
+		(offset
+			(xyz 0 0 3.75)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+)
