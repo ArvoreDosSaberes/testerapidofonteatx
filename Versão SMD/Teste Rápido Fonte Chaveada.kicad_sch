@@ -5031,6 +5031,91 @@
 			)
 		)
 	)
+	(sheet
+		(at 190.5 73.66)
+		(size 12.7 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "58709314-b88d-403b-9fbb-5e9e6eb3fa35")
+		(property "Sheetname" "Carga de Teste"
+			(at 190.5 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Carga de Teste.kicad_sch"
+			(at 190.5 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Teste Rápido Fonte Chaveada"
+				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 190.5 83.82)
+		(size 12.7 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "96cc7e46-0edf-4380-8ab9-50498b86ef6c")
+		(property "Sheetname" "Carga de Teste - para fontes extras"
+			(at 190.5 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Carga de Teste - para fontes extras.kicad_sch"
+			(at 190.5 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Campo2" ""
+			(at 190.5 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Teste Rápido Fonte Chaveada"
+				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
