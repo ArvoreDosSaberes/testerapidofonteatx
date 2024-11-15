@@ -2610,7 +2610,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10cf15ba-1abf-40a9-a9ae-13302bf2add3")
-		(property "Reference" "R5"
+		(property "Reference" "R1"
 			(at 158.75 105.4099 0)
 			(effects
 				(font
@@ -2664,7 +2664,7 @@
 		(instances
 			(project ""
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "R5")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -2746,7 +2746,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d79dc40-26f8-47fe-83ea-89483ceae947")
-		(property "Reference" "R2"
+		(property "Reference" "R7"
 			(at 149.86 105.4099 0)
 			(effects
 				(font
@@ -2800,7 +2800,7 @@
 		(instances
 			(project "Teste Rápido Fonte Chaveada"
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "R2")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -3201,7 +3201,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4789ca54-1daa-4cde-bae6-4cc82a31ca8c")
-		(property "Reference" "D7"
+		(property "Reference" "D3"
 			(at 132.08 115.8874 90)
 			(effects
 				(font
@@ -3255,7 +3255,7 @@
 		(instances
 			(project "Teste Rápido Fonte Chaveada"
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "D7")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -3337,7 +3337,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5222029c-f8c1-4af9-9301-3795effab86d")
-		(property "Reference" "D2"
+		(property "Reference" "D7"
 			(at 150.1092 112.7124 90)
 			(effects
 				(font
@@ -3391,7 +3391,7 @@
 		(instances
 			(project "Teste Rápido Fonte Chaveada"
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "D2")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -3539,7 +3539,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6fb4c9f4-289f-4e9e-ad86-66afb9a9bc94")
-		(property "Reference" "R1"
+		(property "Reference" "R5"
 			(at 110.49 105.4099 0)
 			(effects
 				(font
@@ -3593,7 +3593,7 @@
 		(instances
 			(project "Teste Rápido Fonte Chaveada"
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "R1")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -3609,7 +3609,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ab3d5b7-def7-47c9-a9e2-b42c57c7b0a3")
-		(property "Reference" "R6"
+		(property "Reference" "R2"
 			(at 100.33 105.4099 0)
 			(effects
 				(font
@@ -3663,7 +3663,7 @@
 		(instances
 			(project "Teste Rápido Fonte Chaveada"
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "R6")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -3679,7 +3679,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "893f854c-c7e8-4bd6-bec4-7fc1e971a961")
-		(property "Reference" "D5"
+		(property "Reference" "D1"
 			(at 160.02 115.8874 90)
 			(effects
 				(font
@@ -3733,7 +3733,7 @@
 		(instances
 			(project "Teste Rápido Fonte Chaveada"
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "D5")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -3815,7 +3815,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97e8984d-8b7c-4eac-93cf-4de89d7e44f8")
-		(property "Reference" "D4"
+		(property "Reference" "D6"
 			(at 140.97 112.7124 90)
 			(effects
 				(font
@@ -3869,7 +3869,7 @@
 		(instances
 			(project "Teste Rápido Fonte Chaveada"
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "D4")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -4017,7 +4017,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a36c8306-0ee1-44a9-a814-2ebf3666e702")
-		(property "Reference" "D1"
+		(property "Reference" "D5"
 			(at 111.76 115.8874 90)
 			(effects
 				(font
@@ -4071,7 +4071,7 @@
 		(instances
 			(project "Teste Rápido Fonte Chaveada"
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "D1")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -4153,7 +4153,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aef29a65-7f4b-4bb2-8edb-c45026e93d28")
-		(property "Reference" "R4"
+		(property "Reference" "R6"
 			(at 140.97 105.4099 0)
 			(effects
 				(font
@@ -4207,7 +4207,7 @@
 		(instances
 			(project "Teste Rápido Fonte Chaveada"
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "R4")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -4365,7 +4365,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c061378c-a848-4614-ad7b-befb58c102dd")
-		(property "Reference" "D3"
+		(property "Reference" "D4"
 			(at 121.92 115.8874 90)
 			(effects
 				(font
@@ -4419,7 +4419,7 @@
 		(instances
 			(project "Teste Rápido Fonte Chaveada"
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "D3")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -4567,7 +4567,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6212485-45f6-4bc9-b049-043af29a0121")
-		(property "Reference" "R7"
+		(property "Reference" "R3"
 			(at 130.81 105.4099 0)
 			(effects
 				(font
@@ -4621,7 +4621,7 @@
 		(instances
 			(project "Teste Rápido Fonte Chaveada"
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "R7")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -4769,7 +4769,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6d4d9b8-a1ae-4d54-95db-4422b6f2573f")
-		(property "Reference" "R3"
+		(property "Reference" "R4"
 			(at 120.65 105.4099 0)
 			(effects
 				(font
@@ -4823,7 +4823,7 @@
 		(instances
 			(project "Teste Rápido Fonte Chaveada"
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "R3")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -4839,7 +4839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb2d8d58-90e1-4ee3-9d85-c2da485efbdd")
-		(property "Reference" "D6"
+		(property "Reference" "D2"
 			(at 101.6 115.8874 90)
 			(effects
 				(font
@@ -4893,7 +4893,7 @@
 		(instances
 			(project ""
 				(path "/05a0489b-6f48-4980-a6d7-922522b33b13"
-					(reference "D6")
+					(reference "D2")
 					(unit 1)
 				)
 			)
